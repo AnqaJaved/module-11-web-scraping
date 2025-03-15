@@ -1,6 +1,6 @@
 # Module 11 - Web Scraping and Data Analysis by Anqa Javed
 
-This project involves web scraping and analyzing Mars weather data. The project is broken down into two parts: scraping news articles from the Mars News website and scraping and analyzing Mars weather data. The data has been processed, visualized, and stored in a CSV file for future use.
+This project involves web scraping and analyzing Mars weather data. The project is broken down into two parts: scraping news articles from the Mars News website and scraping & analyzing Mars weather data. The data has been processed, visualized, and stored in a CSV file for future use.
 
 ## Steps Taken:
 1. **Scraped Mars News Titles and Previews**:
